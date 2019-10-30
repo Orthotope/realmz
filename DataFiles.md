@@ -47,7 +47,7 @@ short | Luck to
 short[8] | (0x60) Capable of this caste ????
 short[40] | Conditions
 short | Max age
-short | Regeneration
+short | ??? can turn undead? (only set for vampires and pixies)
 short | Base movement points
 short | Magic resistance
 short | Two handed weapon modifier
@@ -66,7 +66,7 @@ short | Adult to
 short | Senior from
 short | Senior to
 AgeGroup[5] | Age group modifiers
-byte | ?
+byte | Can regenerate
 short | default portrait set?
 int64 | useable items
 short | race properties
