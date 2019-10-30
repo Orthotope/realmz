@@ -192,7 +192,8 @@ short[20] | Starting items
 byte[10] | Bonus attack levels
 int64 | Useable items
 short | Icon?
-byte[130] | ?
+short | Max spells per round
+byte[128] | ?
 
 # Data S
 
